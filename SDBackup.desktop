@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=0.5
+Name=SDBackup
+Comment=Python applet to back up SD cards and sync with cloud
+Exec=python /home/pi/SDBackup/SDBackup.py > /home/pi/Desktop/SDBackup.log
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/netsurf.png
+Categories=Utility;Application
+
+
